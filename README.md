@@ -2,7 +2,7 @@
 
 # AWS DEvSecOps
 
-Repositório criado para armazenamento da documentação da atividade de Linux e sua aplicabilidade em instâncias EC2 na Amazon AWS. 
+Repositório criado para armazenamento da documentação da atividade de Amazon AWS e Linux. 
 
 Atividade válida pelo Programa de Bolsas Compass 2023/2.
 
