@@ -1,6 +1,6 @@
 
 
-# Título do Projeto
+# AWS DEvSecOps
 
 Documentação da atividade de Linux e sua aplicabilidade em instâncias EC2 na Amazon AWS. 
 
